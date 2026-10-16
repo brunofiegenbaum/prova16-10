@@ -12,7 +12,7 @@ export default function Inicio() {
       <View style={styles.cartao}>
         <Text style={styles.cartaoTitulo}>Fortnite</Text>
         <Text style={styles.detalhe}>Cadastre usuários no Fortnite.</Text>
-        <Link href="/agenda" style={styles.link}>Abrir cadastro →</Link>
+        <Link href="/cadastro" style={styles.link}>Abrir cadastro →</Link>
       </View>
     </SafeAreaView>
   );
